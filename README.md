@@ -1,3 +1,8 @@
+# This branch was cloned from Marlin's github, and has been customized for the following hardware:
+
+## FLSUN Q5 Delta 3D Printer
+## Bigtreetech SKR 3 motherboard
+## Bigtreetech TFT35 V3.0 graphical TFT screen
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
