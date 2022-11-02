@@ -143,7 +143,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "FLSUN Q5 (ON BTT SKR3) v07.16.2022"
+#define CUSTOM_MACHINE_NAME "FLSUN Q5 (ON BTT SKR3) v11.02.2022"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
